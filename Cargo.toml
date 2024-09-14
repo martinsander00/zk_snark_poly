@@ -1,0 +1,13 @@
+[package]
+name = "zk_snark_poly"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+rand_core = "0.6"
+bellman_ce = "0.8.0"
+bellman = "0.12.0"
+pairing = "0.20.0"
+ff = "0.12.0"
+rand = "0.4"
+
